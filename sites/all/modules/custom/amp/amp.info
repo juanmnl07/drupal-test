@@ -1,0 +1,4 @@
+name = AMP
+description = AMP module for drupal 7 experimental, following AMP's rules.
+core = 7.x
+package = custom

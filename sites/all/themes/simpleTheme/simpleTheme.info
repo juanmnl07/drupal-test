@@ -1,0 +1,14 @@
+name = Simple Theme by Juan Martinez
+description = Custom simple theme for drupal test
+core = 7.x
+engine = phptemplate
+
+regions[header] = Header
+regions[sidebar_first] = Right sidebar
+regions[sidebar_second] = Left sidebar
+regions[content] = Content
+regions[footer] = Footer
+
+stylesheets[all][] = css/style.css
+
+scripts[] = js/global.js
